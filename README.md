@@ -1,11 +1,11 @@
 # Guessing Game
 
-This is a simple C++ program that generates a random number and has the user guess until they get it right. Feedback is provided if the guess is too high or too low.
+This is a simple C++ program that generates a random number and has the user guess until they find the correct answer. The program gives hints if the guess is too high or too low.
 
 ## Features
 - Random number generation
-- User input with loop until correct answer
-- Feedback after each guess
+- User input loop until the correct guess
+- Console feedback after each attempt
 
 ## Skills Used
 - C++ basics (variables, loops, conditionals)
@@ -14,5 +14,5 @@ This is a simple C++ program that generates a random number and has the user gue
 
 ## How to Compile & Run
 ```bash
-g++ guessing_game.cpp -o guessing_game.exe
+g++ main.cpp -o guessing_game.exe
 ./guessing_game.exe
