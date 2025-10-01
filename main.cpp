@@ -1,7 +1,8 @@
 /******************************************************************************
 Author: Tucker Neikirk
 Date: September 1, 2024
-Purpose: Take a number from user input and randomly guess the number, narrowing the list of numbers each time until it guesses the correct number.
+Purpose: Take a number from user input and randomly guess the number, narrowing 
+the list of numbers each time until it guesses the correct number.
 *******************************************************************************/
 
 #include <iostream>
